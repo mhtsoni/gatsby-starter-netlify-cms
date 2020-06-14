@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ApplyTech Website to App Offer
-date: 2020-06-14T07:59:20.946Z
+date: 2020-06-14T08:07:58.007Z
 description: Get your website converted to app today.
 featuredpost: false
 featuredimage: /img/undraw_my_app_grf2.png
